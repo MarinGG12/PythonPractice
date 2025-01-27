@@ -1,0 +1,27 @@
+Computers are capable of making decisions,
+and help us solve real-world problems because
+they are very good at following instructions
+
+In this lesson, you'll learn to CONTROL THE FLOW OF
+INSTRUCTIONS a computer follows, 
+using 3 techniques: SEQUENCING, ITERATION, and SELECTION.
+
+SEQUENCING = it means that the computer runs your code
+in order, from top to bottom
+
+ITERATION = is about executing an instruction repeatedly.
+Iteration is commonly represented as a loop.
+
+SELECTION = specifies when to follow each path.
+
+ALGORITHM is a set of step-by-step instructions TO COMPLETE A 
+TASK, placed in a certain order.
+
+FLOWCHARTS help to visualize algorithms.
+
+PSEUODOCODE is a simplified language that 
+is a bit closer to a programming language 
+
+algorithms can be represented in different ways.
+If you are new to algorithms, NATURAL LANGUAGE 
+is a good place to start.
