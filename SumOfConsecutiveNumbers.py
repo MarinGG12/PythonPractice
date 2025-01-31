@@ -1,8 +1,8 @@
-# Take input from the user
+#User input
 N = int(input("Enter a number: "))
 
-# Calculate the sum using the formula
+#Calculation and Formula for the sum
 sum = N * (N + 1) // 2
 
-# Output the result
+
 print(sum)
