@@ -1,7 +1,5 @@
-# take the number as input
-number = int(input("Enter a Number: "))
+x = [6, 4, 2, 9]
 
-#use a while loop for the countdown
-while number >= 0:
-    print(number)
-    number -= 1
+x = x[::-1]
+
+print(x[0]+x[2])
